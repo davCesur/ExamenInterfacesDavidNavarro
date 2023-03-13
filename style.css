@@ -1,0 +1,17 @@
+  #tabla {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: white;
+    height: 300px;
+  }
+
+  #tabla td {
+    padding: 10px;
+    border: 1px solid gainsboro;
+  }
+
+  #tabla tr:hover {
+    background-color: gainsboro;
+  }
